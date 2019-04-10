@@ -1,6 +1,6 @@
 # Graphjs
 - A  graph library written in pure JS
-- Supports Directed and Weigted graphs
+- Supports Directed and Weighted graphs
 - Suports Prim algorithm
 - Djikstra Algoritm
 - Test cases included
